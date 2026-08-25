@@ -2,8 +2,9 @@
 export default {
   content: [
     "./index.html",
+    "./src/**/*.{js,jsx}",
     "./main.jsx",
-    "./pgb-hris-mockup.jsx",
+    "./app.jsx",
   ],
   theme: {
     extend: {},

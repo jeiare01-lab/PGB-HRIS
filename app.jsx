@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { TrendingUp, Users, Clock, BarChart3 } from 'lucide-react';
 
 export default function HRISDashboard() {
   const [activeTab, setActiveTab] = useState(0);
